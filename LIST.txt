@@ -1,0 +1,2 @@
+main goals:
+add multi threading so you can type live
