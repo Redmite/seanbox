@@ -6,7 +6,7 @@ voices = voiceService.GetVoices()
 for i in range(voices.Count):
     print(voices.Item(i).GetDescription())
 
-voiceService.Rate = 3
+voiceService.Rate = 2
 
 voiceService.Voice = voices.Item(1)
 
